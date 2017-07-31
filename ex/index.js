@@ -1,5 +1,8 @@
-const produto = {
-	nome: 'Caneta Bic Preta',
-	preco: 1.90,
-	desconto: 0.05
-}
+import './estilo.css';
+import 'react';
+
+export default props => (
+	console.log('ola')
+)
+
+console.log('funcionou')
