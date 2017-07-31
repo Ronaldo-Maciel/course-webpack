@@ -1,4 +1,5 @@
-import Pessoa from  './pessoa'
-
-const pessoa = new Pessoa('Ronaldo')
-console.log(pessoa.toString())
+const produto = {
+	nome: 'Caneta Bic Preta',
+	preco: 1.90,
+	desconto: 0.05
+}
